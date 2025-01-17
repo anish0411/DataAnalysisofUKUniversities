@@ -6,4 +6,5 @@ Visulaization Key Featuers:
 3. Top 10 Universities in the UK: List of the best university according to overall metrics(e.g. academic performance, international students, or student satisfaction)
 4. Average Costs of Higher Education and Living Expenses by Region: I have presented the geographical visual for this and I have added the more information into this like If we hover the moise around the university we will get to know about the PG/UG fees, average living expenses by region.
 5. Metrics by Region: In this I have add the paerameters such that I can get to know about the average minimum IELTS score, International students by region and average student satisfaction.
+
 The Purpose of this dashboard is to help parents, scholars, legislators and students undestands the scenarios of UK universities. It provides the full information of regional trends, academic structures and cost implications to enable for decision making.
